@@ -15,7 +15,6 @@ The dataset includes:
 - Gender classification
 - Number of OTT projects directed
 
-> *Note: All data used is publicly available or manually curated for educational purposes.*
 
 ## Tools & Technologies
 - **Python** 🐍
