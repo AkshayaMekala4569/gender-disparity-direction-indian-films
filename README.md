@@ -14,7 +14,6 @@ The dataset includes:
 - Director names
 - Gender classification
 - Number of OTT projects directed
-- (Optional) Genre, year, or platform metadata
 
 > *Note: All data used is publicly available or manually curated for educational purposes.*
 
@@ -26,8 +25,8 @@ The dataset includes:
 
 ## Key Visuals
 - Bar chart: Number of OTT projects by gender
-- Percentage breakdown (optional)
-- Time-series or genre-based trends (if applicable)
+- Percentage breakdown 
+- Time-series or genre-based trends
 
 ## Insights
 - Visual comparison of male vs female directors in OTT space
